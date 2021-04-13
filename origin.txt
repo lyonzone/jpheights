@@ -1,0 +1,1052 @@
+Uri: http://jpheights.com/
+File Name: c:\Downloaded Web Sites\jpheights.com\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xico1.jpg.pagespeed.ic.EqC9Bn4a-g.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xico1.jpg.pagespeed.ic.EqC9Bn4a-g.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/comments/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/home-title-of-homepage/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\home-title-of-homepage\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-content/themes/anchor/style.css?ver=4.9.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\style.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-content/themes/anchor/css/responsive.css?ver=4.9.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\css\responsive.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-content/plugins/ait-shortcodes/assets/colorbox/colorbox.min.css?ver=1.4.27
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\ait-shortcodes\assets\colorbox\colorbox.min.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-includes/js/jquery/jquery.js,qver=1.12.4.pagespeed.jm.pPCPAKkkss.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\jquery\jquery.js,qver=1.12.4.pagespeed.jm.pPCPAKkkss.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-includes,_js,_jquery,_jquery-migrate.min.js,qver==1.4.1+wp-content,_themes,_anchor,_js,_libs,_modernizr-2.6.2.min.js,qver==20120206.pagespeed.jc.g7LU868mJK.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes,_js,_jquery,_jquery-migrate.min.js,qver==1.4.1 wp-content,_themes,_anchor,_js,_libs,_modernizr-2.6.2.min.js,qver==20120206.pagespeed.jc.g7LU868mJK.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-json/
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://jpheights.com/xmlrpc.php?rsd
+File Name: c:\Downloaded Web Sites\jpheights.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://jpheights.com/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/116xNxlogo.png.pagespeed.ic.9ho58E27sP.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\116xNxlogo.png.pagespeed.ic.9ho58E27sP.png
+Content Type: image/png
+
+Uri: http://jpheights.com/about-us/
+File Name: c:\Downloaded Web Sites\jpheights.com\about-us\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/rooms_type/rooms/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms_type\rooms\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/rooms-list/kings-court/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\kings-court\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/rooms-list/qweens-court-2/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\qweens-court-2\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/rooms-list/conference-2/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\conference-2\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/restaurant/
+File Name: c:\Downloaded Web Sites\jpheights.com\restaurant\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/flagallery/gallery/
+File Name: c:\Downloaded Web Sites\jpheights.com\flagallery\gallery\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/contact-us/
+File Name: c:\Downloaded Web Sites\jpheights.com\contact-us\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xslide21.png.pagespeed.ic.LPwsD_X3-m.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xslide21.png.pagespeed.ic.LPwsD_X3-m.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xslide41.png.pagespeed.ic.qvod_oeQKM.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xslide41.png.pagespeed.ic.qvod_oeQKM.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xslide5.png.pagespeed.ic.09kmwIiKLJ.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xslide5.png.pagespeed.ic.09kmwIiKLJ.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xslider3.png.pagespeed.ic.TBZ5-bGdTx.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xslider3.png.pagespeed.ic.TBZ5-bGdTx.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xslide2.png.pagespeed.ic.fNBkUHs82r.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xslide2.png.pagespeed.ic.fNBkUHs82r.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2013/08/xk1.jpg.pagespeed.ic.MKkRl1u4I5.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2013\08\xk1.jpg.pagespeed.ic.MKkRl1u4I5.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xDSC014291.jpg.pagespeed.ic.ag3wEBRQ0M.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xDSC014291.jpg.pagespeed.ic.ag3wEBRQ0M.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xDSC01611.jpg.pagespeed.ic.o0IPKnUrfH.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xDSC01611.jpg.pagespeed.ic.o0IPKnUrfH.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content,_plugins,_contact-form-7,_includes,_js,_scripts.js,qver==5.0.1+wp-includes,_js,_jquery,_ui,_core.min.js,qver==1.11.4+wp-includes,_js,_jquery,_ui,_datepicker.min.js,qver==1.11.4.pagespeed.jc.gwsfS0SYH7.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content,_plugins,_contact-form-7,_includes,_js,_scripts.js,qver==5.0.1 wp-includes,_js,_jquery,_ui,_core.min.js,qver==1.11.4 wp-includes,_js,_jquery,_ui,_datepicker.min.js,qver==1.11.4.pagespeed.jc.gwsfS0SYH7.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content,_plugins,_contact-form-7-datepicker,_js,_jquery-ui-timepicker,_jquery-ui-timepicker-addon.min.js,qver==4.9.4+wp-includes,_js,_jquery,_ui,_widget.min.js,qver==1.11.4+wp-includes,_js,_jquery,_ui,_mouse.min.js,qver==1.11.4+wp-includes,_js,_jquery,_ui,_slider.min.js,qver==1.11.4+wp-includes,_js,_jquery,_ui,_button.min.js,qver==1.11.4+wp-content,_plugins,_contact-form-7-datepicker,_js,_jquery-ui-sliderAccess.js,qver==4.9.4.pagespeed.jc.1pqn6AVo5L.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content,_plugins,_contact-form-7-datepicker,_js,_jquery-ui-timepicker,_jquery-ui-timepicker-addon.min.js,qver==4.9.4 wp-includes,_js,_jquery,_ui,_widget.min.js,qver==1.11.4 wp-includes,_js,_jquery,_ui,_mouse.min.js,.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/themes/anchor/js/plugins.js?ver=20120206
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content,_themes,_anchor,_js,_script.js,qver==20120206+wp-includes,_js,_comment-reply.min.js,qver==4.9.4+wp-content,_plugins,_ait-shortcodes,_assets,_js,_rule-btn.js,qver==4.9.4+wp-content,_plugins,_ait-shortcodes,_assets,_colorbox,_jquery.colorbox.min.js,qver==1.4.27+wp-includes,_js,_wp-embed.min.js,qver==4.9.4.pagespeed.jc.QuptIseGI7.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content,_themes,_anchor,_js,_script.js,qver==20120206 wp-includes,_js,_comment-reply.min.js,qver==4.9.4 wp-content,_plugins,_ait-shortcodes,_assets,_js,_rule-btn.js,qver==4.9.4 wp-content,_plugins,_ait-shortcodes,_a.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide21.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide21.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide21-300x107.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide21-300x107.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide41.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide41.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide41-300x107.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide41-300x107.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide5.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide5.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide5-300x107.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide5-300x107.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slider3.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slider3.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slider3-300x107.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slider3-300x107.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide2.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide2.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide2-300x107.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide2-300x107.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif.pagespeed.ce.r5YrN3eaRD.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif.pagespeed.ce.r5YrN3eaRD.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/checkmark.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\checkmark.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/sidebar-arrow.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\sidebar-arrow.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/blockquote.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\blockquote.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/header.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\header.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/search-magnify.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\search-magnify.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/main.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\main.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/date-icon.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\date-icon.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/select-arrow.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\select-arrow.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/comment-arrow.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\comment-arrow.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/slider/arrows.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\slider\arrows.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/slider/bg_bullets.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\slider\bg_bullets.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/transparency-fallback.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\transparency-fallback.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/arrows-ffffff.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\arrows-ffffff.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/genericons/font/genericons-regular-webfont.eot
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\genericons\font\genericons-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jpheights.com/wp-content/themes/anchor/genericons/font/genericons-regular-webfont.eot?
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\genericons\font\genericons-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jpheights.com/wp-content/themes/anchor/genericons/font/genericons-regular-webfont.woff
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\genericons\font\genericons-regular-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://jpheights.com/wp-content/themes/anchor/genericons/font/genericons-regular-webfont.ttf
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\genericons\font\genericons-regular-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://jpheights.com/wp-content/themes/anchor/genericons/font/genericons-regular-webfont.svg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\genericons\font\genericons-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/sprite.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/sprite_x.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/sprite_y.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/sprite_next.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/sprite_prev.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/default_thumb.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/loader.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/loader.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/sprite.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/btnNext.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_square/sprite.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_square/btnNext.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/sprite.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/loader.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/btnNext.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/btnPrevious.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xselect-arrow2,402x.png.pagespeed.ic.Z2PvJDtT1o.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xselect-arrow2,402x.png.pagespeed.ic.Z2PvJDtT1o.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xdate-icon,402x.png.pagespeed.ic.x1A3U_uRA-.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xdate-icon,402x.png.pagespeed.ic.x1A3U_uRA-.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xselect-arrow,402x.png.pagespeed.ic.kgxNlnVhDd.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xselect-arrow,402x.png.pagespeed.ic.kgxNlnVhDd.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xsearch-magnify,402x.png.pagespeed.ic.3glAg63rbF.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xsearch-magnify,402x.png.pagespeed.ic.3glAg63rbF.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/slider/xarrows,402x.png.pagespeed.ic.wh_MLnDnB_.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\slider\xarrows,402x.png.pagespeed.ic.wh_MLnDnB_.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/slider/xbg_bullets,402x.png.pagespeed.ic.gkEtrztQtb.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\slider\xbg_bullets,402x.png.pagespeed.ic.gkEtrztQtb.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xcheckmark,402x.png.pagespeed.ic.4O_ZBxBgGM.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xcheckmark,402x.png.pagespeed.ic.4O_ZBxBgGM.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xsidebar-arrow,402x.png.pagespeed.ic.uXRGKxYEbK.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xsidebar-arrow,402x.png.pagespeed.ic.uXRGKxYEbK.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xcheckmark.png.pagespeed.ic.nyE7yqgF2T.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xcheckmark.png.pagespeed.ic.nyE7yqgF2T.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xsidebar-arrow.png.pagespeed.ic.dYaWvMCXJt.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xsidebar-arrow.png.pagespeed.ic.dYaWvMCXJt.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xsearch-magnify.png.pagespeed.ic.zAxtUc6SRG.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xsearch-magnify.png.pagespeed.ic.zAxtUc6SRG.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/slider/xarrows.png.pagespeed.ic.2Ra5YV5UAu.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\slider\xarrows.png.pagespeed.ic.2Ra5YV5UAu.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/slider/xbg_bullets.png.pagespeed.ic.rGnIPt2Div.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\slider\xbg_bullets.png.pagespeed.ic.rGnIPt2Div.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xselect-arrow.png.pagespeed.ic.oYFqrr4TCh.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xselect-arrow.png.pagespeed.ic.oYFqrr4TCh.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/plugins/ait-shortcodes/assets/colorbox/images/loading.gif.pagespeed.ce.hzKmZgtSj6.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\ait-shortcodes\assets\colorbox\images\loading.gif.pagespeed.ce.hzKmZgtSj6.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/plugins/ait-shortcodes/assets/colorbox/images/controls.png.pagespeed.ce.JhVsMlc_Qw.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\ait-shortcodes\assets\colorbox\images\controls.png.pagespeed.ce.JhVsMlc_Qw.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/css/A.responsive.css,qver=4.9.4.pagespeed.cf.wQfpyhPaCv.css
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\css\A.responsive.css,qver=4.9.4.pagespeed.cf.wQfpyhPaCv.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-content/plugins/ait-shortcodes/assets/colorbox/A.colorbox.min.css,qver=1.4.27.pagespeed.cf.Ft0VmO-8F4.css
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\ait-shortcodes\assets\colorbox\A.colorbox.min.css,qver=1.4.27.pagespeed.cf.Ft0VmO-8F4.css
+Content Type: text/css
+
+Uri: http://jpheights.com/about-us/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\about-us\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-content/themes/anchor/A.style.css,qver=4.9.4.pagespeed.cf.uKKrT_wBaR.css
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\A.style.css,qver=4.9.4.pagespeed.cf.uKKrT_wBaR.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Fabout-us%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Fabout-us%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/edited.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\edited.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/edited-207x300.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\edited-207x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/edited-117x170.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\edited-117x170.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/rooms_type/rooms/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms_type\rooms\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=4.9.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\jquery-ui-timepicker-addon.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\jquery\ui\button.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=4.9.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-sliderAccess.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/themes/anchor/js/script.js?ver=20120206
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\js\script.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/plugins/ait-shortcodes/assets/js/rule-btn.js?ver=4.9.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\ait-shortcodes\assets\js\rule-btn.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/plugins/ait-shortcodes/assets/colorbox/jquery.colorbox.min.js?ver=1.4.27
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\ait-shortcodes\assets\colorbox\jquery.colorbox.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-includes/js/wp-embed.min.js?ver=4.9.4
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\slider-image\Front_images\arrows\arrows.simple.png
+Content Type: image/png
+
+Uri: http://jpheights.com/rooms-list/slider1/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\slider1\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fkings-court%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fkings-court%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140923_132909.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140923_132909.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140923_132754.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140923_132754.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140923_132828.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140923_132828.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140923_132903.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140923_132903.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content,_themes,_anchor,_js,_script.js,qver==20120206+wp-content,_plugins,_ait-shortcodes,_assets,_js,_rule-btn.js,qver==4.9.4+wp-content,_plugins,_ait-shortcodes,_assets,_colorbox,_jquery.colorbox.min.js,qver==1.4.27+wp-includes,_js,_wp-embed.min.js,qver==4.9.4.pagespeed.jc.ek4_KskLBO.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content,_themes,_anchor,_js,_script.js,qver==20120206 wp-content,_plugins,_ait-shortcodes,_assets,_js,_rule-btn.js,qver==4.9.4 wp-content,_plugins,_ait-shortcodes,_assets,_colorbox,_jquery.colorbox.min.js,qver==1.4..js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/plugins/slider-image/Front_images/arrows/xarrows.simple.png.pagespeed.ic.oYxMxIyKj5.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\slider-image\Front_images\arrows\xarrows.simple.png.pagespeed.ic.oYxMxIyKj5.png
+Content Type: image/png
+
+Uri: http://jpheights.com/rooms-list/qweens-court-2/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\qweens-court-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/rooms-list/restaurant/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\restaurant\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fqweens-court-2%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fqweens-court-2%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/DSC01431.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\DSC01431.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/DSC014451.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\DSC014451.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/DSC01430.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\DSC01430.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/rooms-list/194/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\194\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fconference-2%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fconference-2%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/DSC01597.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\DSC01597.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/DSC01596.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\DSC01596.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/restaurant/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\restaurant\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frestaurant%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frestaurant%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140921_164436.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140921_164436.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140803_133345.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140803_133345.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140923_131334.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140923_131334.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140923_131314.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140923_131314.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140921_170416.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140921_170416.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140921_170434.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140921_170434.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/DSC01461.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\DSC01461.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140921_164526.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140921_164526.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/20140921_124057.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\20140921_124057.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-includes\js\jquery\jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/slider1.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\slider1.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_slider1.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_slider1.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/10508433_616940915083838_1321727392_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\10508433_616940915083838_1321727392_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_10508433_616940915083838_1321727392_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_10508433_616940915083838_1321727392_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/10508495_616941071750489_1730693884_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\10508495_616941071750489_1730693884_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_10508495_616941071750489_1730693884_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_10508495_616941071750489_1730693884_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/10518893_616940355083894_483126167_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\10518893_616940355083894_483126167_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_10518893_616940355083894_483126167_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_10518893_616940355083894_483126167_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/10538545_616942628417000_632865737_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\10538545_616942628417000_632865737_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_10538545_616942628417000_632865737_n.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_10538545_616942628417000_632865737_n.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/20140923_132828.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\20140923_132828.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_20140923_132828.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_20140923_132828.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/webview/slider.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\webview\slider.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/flagallery/gallery/thumbs/thumbs_slider.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\flagallery\gallery\thumbs\thumbs_slider.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/plugins/flash-album-gallery/assets/mag-popup/magnific-popup.css?ver=1.1.0
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flash-album-gallery\assets\mag-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/css/phantom.css?ver=1.1
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\css\phantom.css
+Content Type: text/css
+
+Uri: http://jpheights.com/wp-content/plugins/flash-album-gallery/assets/mag-popup/jquery.magnific-popup.min.js?ver=1.1.0
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flash-album-gallery\assets\mag-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/js/phantom.js?ver=1.1
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\js\phantom.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/contact-us/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\contact-us\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Fcontact-us%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Fcontact-us%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/themes/anchor/js/jquery.gomap-1.3.2.min.js
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\js\jquery.gomap-1.3.2.min.js
+Content Type: application/javascript
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xblockquote.png.pagespeed.ic.IhF8lFrT3p.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xblockquote.png.pagespeed.ic.IhF8lFrT3p.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xheader.png.pagespeed.ic.f103F7wOPM.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xheader.png.pagespeed.ic.f103F7wOPM.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xmain.png.pagespeed.ic.c_k3KvChDR.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xmain.png.pagespeed.ic.c_k3KvChDR.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xdate-icon.png.pagespeed.ic.9gB3nSLz91.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xdate-icon.png.pagespeed.ic.9gB3nSLz91.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xcomment-arrow.png.pagespeed.ic.GlwutLL1TM.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xcomment-arrow.png.pagespeed.ic.GlwutLL1TM.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xtransparency-fallback.png.pagespeed.ic.frbl_YkJCB.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xtransparency-fallback.png.pagespeed.ic.frbl_YkJCB.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/xarrows-ffffff.png.pagespeed.ic.r1AZypiSkZ.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\xarrows-ffffff.png.pagespeed.ic.r1AZypiSkZ.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/xsprite.png.pagespeed.ic.w_IIGnAUYp.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\xsprite.png.pagespeed.ic.w_IIGnAUYp.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/xsprite_x.png.pagespeed.ic.M2KdHGvnrX.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\xsprite_x.png.pagespeed.ic.M2KdHGvnrX.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/xsprite_y.png.pagespeed.ic.zga-JPcTAP.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\xsprite_y.png.pagespeed.ic.zga-JPcTAP.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/xsprite_next.png.pagespeed.ic.1T4fYr1AQ7.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\xsprite_next.png.pagespeed.ic.1T4fYr1AQ7.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/xsprite_prev.png.pagespeed.ic.vwkXl7Nbf_.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\xsprite_prev.png.pagespeed.ic.vwkXl7Nbf_.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/xdefault_thumb.png.pagespeed.ic.-vFzW_UPW_.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\xdefault_thumb.png.pagespeed.ic.-vFzW_UPW_.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/default/loader.gif.pagespeed.ce.g5PF9-OUaY.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\default\loader.gif.pagespeed.ce.g5PF9-OUaY.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/xsprite.png.pagespeed.ic.nOqLOpe1vy.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\xsprite.png.pagespeed.ic.nOqLOpe1vy.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/xsprite.png.pagespeed.ic.5Ih_bce-RO.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\xsprite.png.pagespeed.ic.5Ih_bce-RO.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/xcontentPattern.png.pagespeed.ic.e3dxiwdKiD.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\xcontentPattern.png.pagespeed.ic.e3dxiwdKiD.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_rounded/loader.gif.pagespeed.ce.QpeQCuLZ0M.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_rounded\loader.gif.pagespeed.ce.QpeQCuLZ0M.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/loader.gif.pagespeed.ce.QpeQCuLZ0M.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\loader.gif.pagespeed.ce.QpeQCuLZ0M.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/xsprite.png.pagespeed.ic.opbHzY4aTq.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\xsprite.png.pagespeed.ic.opbHzY4aTq.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/dark_square/xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\dark_square\xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_square/xsprite.png.pagespeed.ic.opbHzY4aTq.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_square\xsprite.png.pagespeed.ic.opbHzY4aTq.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_square/xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_square\xbtnNext.png.pagespeed.ic.d5Wv1neNs5.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_square/xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_square\xbtnPrevious.png.pagespeed.ic.Jns8E9UQ9L.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xsprite.png.pagespeed.ic._u_NGenenW.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xsprite.png.pagespeed.ic._u_NGenenW.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xcontentPatternTop.png.pagespeed.ic.bLxDNHNkk4.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xcontentPatternTop.png.pagespeed.ic.bLxDNHNkk4.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xcontentPatternLeft.png.pagespeed.ic.TTG9bIPwIB.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xcontentPatternLeft.png.pagespeed.ic.TTG9bIPwIB.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xcontentPatternRight.png.pagespeed.ic.DzgHBaDmc1.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xcontentPatternRight.png.pagespeed.ic.DzgHBaDmc1.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/loader.gif.pagespeed.ce.30aZMERXb4.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\loader.gif.pagespeed.ce.30aZMERXb4.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xbtnNext.png.pagespeed.ic.YrsjFDIB3O.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xbtnNext.png.pagespeed.ic.YrsjFDIB3O.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xbtnPrevious.png.pagespeed.ic.Grfs0BtAKy.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xbtnPrevious.png.pagespeed.ic.Grfs0BtAKy.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xcontentPatternBottom.png.pagespeed.ic.AV4Ol9mjPm.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xcontentPatternBottom.png.pagespeed.ic.AV4Ol9mjPm.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/facebook/xdefault_thumbnail.gif.pagespeed.ic.Nb17Wp_hVG.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\facebook\xdefault_thumbnail.gif.pagespeed.ic.Nb17Wp_hVG.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/themes/anchor/images/prettyPhoto/light_rounded/loader.gif.pagespeed.ce.30aZMERXb4.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\themes\anchor\images\prettyPhoto\light_rounded\loader.gif.pagespeed.ce.30aZMERXb4.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/rooms-list/slider1/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\slider1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/rooms-list/kings-court-2/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\kings-court-2\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fslider1%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fslider1%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide21-800x368.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide21-800x368.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/rooms-list/restaurant/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\restaurant\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/rooms-list/conference/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\conference\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Frestaurant%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Frestaurant%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide41-800x368.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide41-800x368.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/rooms-list/194/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\194\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2F194%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2F194%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/xslide21-800x368.png.pagespeed.ic.-2jAO6x9mA.jpg
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\xslide21-800x368.png.pagespeed.ic.-2jAO6x9mA.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/img/loader.gif.pagespeed.ce.aLEJ1W37lv.gif
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\img\loader.gif.pagespeed.ce.aLEJ1W37lv.gif
+Content Type: image/gif
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/img/xfacebook,402x.png.pagespeed.ic.yBQNxr0BEq.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\img\xfacebook,402x.png.pagespeed.ic.yBQNxr0BEq.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/img/twitter,402x.png.pagespeed.ce.fniumluJUb.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\img\twitter,402x.png.pagespeed.ce.fniumluJUb.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/img/pinterest,402x.png.pagespeed.ce.zW4GOk1M_7.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\img\pinterest,402x.png.pagespeed.ce.zW4GOk1M_7.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/img/google,402x.png.pagespeed.ce.xxcNPgp2xE.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\img\google,402x.png.pagespeed.ce.xxcNPgp2xE.png
+Content Type: image/png
+
+Uri: http://jpheights.com/wp-content/plugins/flagallery-skins/phantom/img/stumbleupon,402x.png.pagespeed.ce.Xi0CU6Fgjn.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\plugins\flagallery-skins\phantom\img\stumbleupon,402x.png.pagespeed.ce.Xi0CU6Fgjn.png
+Content Type: image/png
+
+Uri: http://jpheights.com/rooms-list/kings-court-2/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\kings-court-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/rooms-list/qweens-court/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\qweens-court\index.html
+Content Type: text/html
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fkings-court-2%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fkings-court-2%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide2-800x368.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide2-800x368.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/rooms-list/conference/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\conference\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fconference%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fconference%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-23
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slide5-800x368.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slide5-800x368.jpg
+Content Type: image/jpeg
+
+Uri: http://jpheights.com/rooms-list/qweens-court/feed/
+File Name: c:\Downloaded Web Sites\jpheights.com\rooms-list\qweens-court\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fqweens-court%2F
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjpheights.com%2Frooms-list%2Fqweens-court%2F&
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-json\oembed\1.0\embed-25
+Content Type: application/json
+
+Uri: http://jpheights.com/wp-content/uploads/2014/10/slider3-800x368.png
+File Name: c:\Downloaded Web Sites\jpheights.com\wp-content\uploads\2014\10\slider3-800x368.jpg
+Content Type: image/jpeg
+

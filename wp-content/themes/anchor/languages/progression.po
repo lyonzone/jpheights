@@ -1,0 +1,835 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: anchor/content-single.php:69
+msgid ""
+msgstr ""
+
+#. Text in function
+#: anchor/inc/template-tags.php:37
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: anchor/inc/template-tags.php:37
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#. Text in function
+#: anchor/taxonomy-rooms_type.php:32
+#: anchor/taxonomy-columns-example.php:32
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: anchor/comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: anchor/inc/template-tags.php:27
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: anchor/content-single.php:69
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: anchor/image.php:75
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#. Text in function
+#: anchor/image.php:45
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Add New Room"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Address Line Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Appearance"
+msgstr ""
+
+#. Text in echo
+#: anchor/archive.php:24
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: anchor/archive.php:24
+msgid "Asides"
+msgstr ""
+
+#. Text in function
+#: anchor/archive.php:24
+msgid "Author: %s"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Background Colors"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Background Image on Rooms Category"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Background Image on Rooms Posts"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Basic"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Body Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Body Default Font Color"
+msgstr ""
+
+#. Text in echo
+#: anchor/content.php:51
+#: anchor/content-single.php:52
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose a Main Body Font. Default font is <strong>Helvetica Neue</strong>"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose how long each slide will show (in milliseconds)"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose how many columns you want to use for our footer widgets (1-4 Columns)."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose how many columns you want to use if using child pages on homepage (1-4 Columns)."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose how many room posts show per page."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose the custom font used in the theme.  Default font is <strong>Tinos</strong>"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose to display the navigation bullets on the bottom left of the slideshow. "
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose to have your slide show autoplay or not."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose to turn the next/previous buttons on or off. "
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose your contact text here that displays in the header. "
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose your copyright text here. "
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose your logo width in pixels.  Default is 116."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Choose your slider animation between fade and slide."
+msgstr ""
+
+#. Text in echo
+#: anchor/comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: anchor/comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Contact in Header Font Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Content Container Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/content.php:63
+msgid "Continue reading <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Copyright"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Crepe"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Custom CSS Code"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Custom Font"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Custom Javascript Code"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Default Link Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Default Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Display Comments on Pages"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Display Sidebar on Blog Post pages"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Display Sidebar on Blog, Archives, and Search"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Display Sidebar on Room Category List"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Display Sidebar on Room Post pages"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Dribbble Link"
+msgstr ""
+
+#. Text in function
+#: anchor/inc/template-tags.php:55
+#: anchor/image.php:29
+#: anchor/image.php:75
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:98
+#: anchor/page-contact.php:98
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:89
+#: anchor/page-contact.php:89
+msgid "Email Successfully Sent!"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Facebook Link"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Fade"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "FavIcon"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Featured Slider Animation"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Featured Slider Autoplay"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Featured Slider Autoplay Speed"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Featured Slider Next / Previous Buttons"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Featured Slider Thumbnail Navigation Buttons"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Flickr Link"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Font Colors"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Footer Base Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Footer Heading Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Footer Link Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Footer Text Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Footer Widget Area Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Footer Widget Column Count"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Footer Widgets"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Footer/Widget Social Icons"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "French Toast"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Google Link"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Header Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Header Contact Information"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Header Social Icons"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Headings Text Color"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Homepage Child page Column Count"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Homepage Content"
+msgstr ""
+
+#. Text in echo
+#: anchor/archive.php:24
+msgid "Images"
+msgstr ""
+
+#. Text in echo
+#: anchor/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below."
+msgstr ""
+
+#. Text in echo
+#: anchor/no-results.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "LinkedIn Link"
+msgstr ""
+
+#. Text in echo
+#: anchor/archive.php:24
+msgid "Links"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Logo Width"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Main Body Font"
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:102
+#: anchor/page-contact.php:102
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: anchor/404.php:29
+msgid "Most Used Categories"
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:94
+#: anchor/page-contact.php:94
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Navigation Font Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Navigation Hover Font Color"
+msgstr ""
+
+#. Text in function
+#: anchor/comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: anchor/image.php:46
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: anchor/content.php:53
+#: anchor/content-single.php:54
+msgid "No Comments"
+msgstr ""
+
+#. Text in function
+#: anchor/no-results.php:13
+msgid "No Results: %s"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Off"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Omelette"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "On"
+msgstr ""
+
+#. Text in echo
+#: anchor/404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Page Title Background Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Page Title Font Color"
+msgstr ""
+
+#. Text in function
+#: anchor/page-full-width.php:24
+#: anchor/page.php:29
+#: anchor/content.php:64
+#: anchor/content-single.php:69
+#: anchor/page-contact-full.php:110
+#: anchor/page-contact.php:110
+#: anchor/image.php:75
+#: anchor/content-rooms_post.php:51
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Pancake"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Paste custom JavaScript code here without &lt;script&gt;&lt;s/cript&gt; tags."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Paste custom JavaScript code here without &lt;style&gt;&lt;/style&gt; tags."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Paste your tracking code here e.g. Google Analytics etc... without &lt;script&gt; &lt;/script&gt; tags."
+msgstr ""
+
+#. Text in echo
+#: anchor/inc/template-tags.php:27
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Pinterest Link"
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:85
+#: anchor/page-contact.php:85
+msgid "Please check if you have filled all the fields with valid information. Thank you."
+msgstr ""
+
+#. Text in echo
+#: anchor/content.php:52
+#: anchor/content-single.php:53
+msgid "Posted in"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: anchor/image.php:29
+msgid "Published<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span>at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in echo
+#: anchor/archive.php:24
+msgid "Quotes"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "RSS Link"
+msgstr ""
+
+#. Text in function
+#: anchor/no-results.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Rooms"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Rooms Posts Per Page"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Rooms Sidebar"
+msgstr ""
+
+#. Text in echo
+#: anchor/searchform.php:11
+#: anchor/searchform.php:13
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: anchor/searchform.php:12
+msgid "Search &hellip;"
+msgstr ""
+
+#. Text in function
+#: anchor/search.php:24
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Select this checkbox to display the sidebar in the blog pages."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Select this checkbox to display the sidebar in the blog post pages."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Select this checkbox to display the sidebar in the room category pages."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Select this checkbox to display the sidebar in the room post pages."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Select this checkbox to enable the comments on pages.  Once selected you can also manually enable/disable comments on a page-by-page basis via the Discussion Screen Option."
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:105
+#: anchor/page-contact.php:105
+msgid "Send Message"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Slide"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Slider Heading Font Color"
+msgstr ""
+
+#. Text in function
+#: anchor/functions.php:729
+msgid "Slider Text Font Color"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Social Icon will display/hide automatically in the header & footer."
+msgstr ""
+
+#. Text in echo
+#: anchor/no-results.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: anchor/page-contact-full.php:90
+#: anchor/page-contact.php:90
+msgid "Thank you for using my contact form! I will be in touch with you soon."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "These icons will display in the footer of your theme (And Social Icons Widget).  Leave the text area blank and the icon will disappear automatically."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "These icons will display in the header of your theme.  Leave the text area blank and the icon will disappear automatically."
+msgstr ""
+
+#. Text in function
+#: anchor/content-single.php:69
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+#. Text in function
+#: anchor/content-single.php:69
+msgid "This entry was posted in %1$s."
+msgstr ""
+
+#. Text in function
+#: anchor/content-single.php:69
+msgid "This entry was tagged %2$s."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Tools"
+msgstr ""
+
+#. Text in echo
+#: anchor/image.php:75
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in function
+#: anchor/404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Tumblr Link"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Twitter Link"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Use the upload button to add your your page title background."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Use the upload button to upload your favicon (bookmark icon) and then click <strong>Use this image</strong>."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Use the upload button to upload your sites logo and then click <strong>Use this image</strong>."
+msgstr ""
+
+#. Text in echo
+#: anchor/archive.php:24
+msgid "Videos"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Vimeo Link"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Waffle"
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "WordPress Link"
+msgstr ""
+
+#. Text in echo
+#: anchor/inc/template-tags.php:58
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: anchor/options.php:590
+msgid "Youtube Link"
+msgstr ""
